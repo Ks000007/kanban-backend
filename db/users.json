@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "email": "admin@kanban.com",
+    "password": "admin123",
+    "name": "Admin User",
+    "role": "admin",
+    "avatar": "https://placehold.co/150x150/ff69b4/ffffff?text=AU",
+    "color": "#ff69b4"
+  },
+  {
+    "id": "2",
+    "email": "user@kanban.com",
+    "password": "user123",
+    "name": "Regular User",
+    "role": "developer",
+    "avatar": "https://placehold.co/150x150/87ceeb/ffffff?text=RU",
+    "color": "#87ceeb"
+  },
+  {
+    "id": "3",
+    "email": "shreyashkars172@gmail.com",
+    "password": "password",
+    "name": "Kushagra Shreyashkar",
+    "role": "designer",
+    "avatar": "https://placehold.co/150x150/9370db/ffffff?text=KS",
+    "color": "#9370db"
+  },
+  {
+    "id": "4",
+    "email": "john.smith@kanban.com",
+    "password": "john123",
+    "name": "John Smith",
+    "role": "manager",
+    "avatar": "https://placehold.co/150x150/ff4500/ffffff?text=JS",
+    "color": "#ff4500"
+  },
+  {
+    "id": "1754232009873",
+    "name": "Test User",
+    "email": "test@email.com",
+    "password": "1234",
+    "role": "tester",
+    "avatar": "https://placehold.co/150x150/1048B9/ffffff?text=TU",
+    "color": "#1048B9"
+  }
+]
